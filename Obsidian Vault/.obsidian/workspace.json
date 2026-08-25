@@ -1,0 +1,734 @@
+{
+  "main": {
+    "id": "80dce99d736d7ecc",
+    "type": "split",
+    "children": [
+      {
+        "id": "a765c4321bdb6c5e",
+        "type": "tabs",
+        "dimension": 80.43052837573386,
+        "children": [
+          {
+            "id": "26120b1cd00cf87a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fundamentos de Redes/26 de Agosto 2025.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "26 de Agosto 2025"
+            }
+          },
+          {
+            "id": "e6a27339a4dc68f1",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.12"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.12"
+            }
+          },
+          {
+            "id": "a385a853269ef335",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sistemas Operativos II/26 de Agosto 2025 U1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "26 de Agosto 2025 U1"
+            }
+          },
+          {
+            "id": "c42d87f5855a541a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fundamentos de Redes Emergentes/27 de Agosto de 2025 U1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "27 de Agosto de 2025 U1"
+            }
+          },
+          {
+            "id": "a648050c89670c71",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sistemas Operativos II/26 de Agosto 2025 U1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "26 de Agosto 2025 U1"
+            }
+          },
+          {
+            "id": "34c342012b9c41fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fundamentos de Redes Emergentes/25 de Agosto 2025 U1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "25 de Agosto 2025 U1"
+            }
+          },
+          {
+            "id": "1feb878a4e53a9fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fundamentos de Redes Emergentes/1 de Septiembre 2025 U1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1 de Septiembre 2025 U1"
+            }
+          },
+          {
+            "id": "c6c61d97d2c9d531",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sistemas Operativos II/27 de Agosto de 2025 U1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "27 de Agosto de 2025 U1"
+            }
+          },
+          {
+            "id": "c6a1a2547275bdc3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sistemas Operativos II/3 Septiembre U1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3 Septiembre U1"
+            }
+          },
+          {
+            "id": "246394f8f0c7d79e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fundamentos de Redes Emergentes/3 de Septiembre 2025 U1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3 de Septiembre 2025 U1"
+            }
+          },
+          {
+            "id": "e8ab35469ce5990e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sistemas Operativos II/3 Septiembre 2025 U1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3 Septiembre 2025 U1"
+            }
+          },
+          {
+            "id": "614ab265c29d87bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fundamentos de Redes Emergentes/26 de Agosto 2025 U1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "26 de Agosto 2025 U1"
+            }
+          },
+          {
+            "id": "ba68fde56362a41f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sistemas Operativos II/8  de Septiembre 2025 U1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "8  de Septiembre 2025 U1"
+            }
+          },
+          {
+            "id": "b7cdd931a5ae3f77",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sistemas Operativos II/Unidad1/8  de Septiembre 2025 U1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "8  de Septiembre 2025 U1"
+            }
+          },
+          {
+            "id": "583741d1a73280bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sistemas Operativos II/Unidad1/27 de Agosto de 2025 U1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "27 de Agosto de 2025 U1"
+            }
+          },
+          {
+            "id": "bee0a68d8596dd54",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fundamentos de Redes Emergentes/U2/Características del Router.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Características del Router"
+            }
+          },
+          {
+            "id": "f3a4f2310b1d47e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fundamentos de Redes Emergentes/U2/Practica 2.1 Características del Router.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Practica 2.1 Características del Router"
+            }
+          },
+          {
+            "id": "0cc7b40b612d2b6b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fundamentos de Redes Emergentes/U2/Practica 2.1 Características del Router.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Practica 2.1 Características del Router"
+            }
+          },
+          {
+            "id": "91d9f5c156458aee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fundamentos de Redes Emergentes/U2/Practica 2.1 Características del Router.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Practica 2.1 Características del Router"
+            }
+          },
+          {
+            "id": "3f01249a46106f91",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sistemas Operativos II/U2/11 de Setiembre 2025 U2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "11 de Setiembre 2025 U2"
+            }
+          },
+          {
+            "id": "7eacc34f40ff80bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wor.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Wor"
+            }
+          },
+          {
+            "id": "e4113d3c5ade3c5a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sistemas Operativos II/U2/12 Septiembre U2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "12 Septiembre U2"
+            }
+          },
+          {
+            "id": "941b378eb353deff",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "cuadro.png"
+              },
+              "icon": "lucide-image",
+              "title": "cuadro"
+            }
+          },
+          {
+            "id": "a6c25738a125c642",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sistemas Operativos II/U3/Unidad 3 Blockchain como SOD.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Unidad 3 Blockchain como SOD"
+            }
+          },
+          {
+            "id": "0b711696fea23d5f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GUIA DE EXAMEN.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "GUIA DE EXAMEN"
+            }
+          },
+          {
+            "id": "bbb6da23fd981c11",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GUIA DE EXAMEN.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "GUIA DE EXAMEN"
+            }
+          },
+          {
+            "id": "56150d960186d2fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fundamentos de Redes Emergentes/U3/Unidad 3 Red Blockchain.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Unidad 3 Red Blockchain"
+            }
+          },
+          {
+            "id": "c24a53fa2ac5b7da",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sistemas Operativos II/U3/14 de Octubre U3.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "14 de Octubre U3"
+            }
+          },
+          {
+            "id": "13ac1f5b1e2af41b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sistemas Operativos II/U3/CONTRATO INTELIGENTES.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CONTRATO INTELIGENTES"
+            }
+          },
+          {
+            "id": "965a58ccd07ad937",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Guion/Guion de mi presentacion.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Guion de mi presentacion"
+            }
+          },
+          {
+            "id": "fc63980e52d7949f",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.6"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.6"
+            }
+          },
+          {
+            "id": "0d98eb851080a04e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Objetivo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Objetivo"
+            }
+          },
+          {
+            "id": "8f2eaf56edea7019",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Actividad 1.1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Actividad 1.1"
+            }
+          }
+        ],
+        "currentTab": 32
+      },
+      {
+        "id": "48c3506e5f8443ac",
+        "type": "tabs",
+        "dimension": 19.569471624266143,
+        "children": [
+          {
+            "id": "2b920e3e3bded614",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "c20e331ffb9e4283",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sistemas Operativos II/26 de Agosto 2025 U1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "26 de Agosto 2025 U1"
+            }
+          },
+          {
+            "id": "3318e68caa41e47e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sistemas Operativos II/27 de Agosto de 2025 U1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "27 de Agosto de 2025 U1"
+            }
+          },
+          {
+            "id": "f35ae422ab9c2c65",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sistemas Operativos II/2 de Septiembre 2025 U1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2 de Septiembre 2025 U1"
+            }
+          },
+          {
+            "id": "53b53845edba988a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e0e060aa5602ddf8",
+    "type": "split",
+    "children": [
+      {
+        "id": "649a0d9cf853a4de",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b6f8da9b9ed3084a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "8f4303baede03ed0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:Competencias",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "03c7becc4a1971b8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d85d34c97422a63c",
+    "type": "split",
+    "children": [
+      {
+        "id": "514120047cd28508",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1a7b5aa8e9490d5b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Welcome.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Welcome"
+            }
+          },
+          {
+            "id": "988852494657ecf1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Welcome"
+            }
+          },
+          {
+            "id": "cdc7ef19ecf0269c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "9ed056a039410c39",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Welcome"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "8f2eaf56edea7019",
+  "lastOpenFiles": [
+    "Unidad1/Actividades-obsidian",
+    "Objetivo.md",
+    "Actividad 1.1.md",
+    "Wor.md",
+    "Unidad1",
+    "Resumen.png",
+    "Pasted image 20251002221806.png",
+    "Pasted image 20251002093307.png",
+    "Pasted image 20250904084341.png",
+    "GUIA DE EXAMEN.md",
+    "Pasted image 20250902104556.png",
+    "cuadro.png",
+    "Contrato inteligente.png",
+    "Como funciona blockchain.png",
+    "Sistemas Operativos II/U3/CONTRATO INTELIGENTES.md",
+    "Guion/Guion de mi presentacion.md",
+    "Guion",
+    "Sistemas Operativos II/U3/Como funciona blockchain.md",
+    "Sistemas Operativos II/U3/14 de Octubre U3.md",
+    "Fundamentos de Redes Emergentes/U3/Unidad 3 Red Blockchain.md",
+    "Sistemas Operativos II/U2/11 de Setiembre 2025 U2.md",
+    "Sistemas Operativos II/U3/Unidad 3 Blockchain como SOD.md",
+    "Sistemas Operativos II/U2/12 Septiembre U2.md",
+    "Sistemas Operativos II/U3",
+    "U",
+    "Sistemas Operativos II/U2/U3",
+    "Sistemas Operativos II/Unidad1/U3",
+    "Fundamentos de Redes Emergentes/U3",
+    "Fundamentos de Redes Emergentes/U2/Practica 2.3.md",
+    "Fundamentos de Redes Emergentes/U2/Tarea 2.2.md",
+    "Fundamentos de Redes Emergentes/U2/Practica 2.1 Características del Router.md",
+    "Fundamentos de Redes Emergentes/U2/9 de Septiembre 2025 U2.md",
+    "Fundamentos de Redes Emergentes/U2/Diseño Logico U2.md",
+    "Untitled 1",
+    "Sistemas Operativos II/U2",
+    "Sistemas Operativos II/Unidad1/27 de Agosto de 2025 U1.md",
+    "Fundamentos de Redes Emergentes/U2/Caracteristicas del Router U2",
+    "Sistemas Operativos II/Unidad1/8  de Septiembre 2025 U1.md",
+    "Sistemas Operativos II/Unidad1/4 de Septiembre 2025 U1.md",
+    "Sistemas Operativos II/Unidad1/3 Septiembre 2025 U1.md",
+    "Sistemas Operativos II/Unidad1/2 de Septiembre 2025 U1.md",
+    "Sistemas Operativos II/Unidad1/26 de Agosto 2025 U1.md",
+    "Sistemas Operativos II/Unidad1/25 de Agosto de 2025.md",
+    "Fundamentos de Redes Emergentes/U1/3 de Septiembre 2025 U1.md",
+    "Untitled.canvas"
+  ]
+}
