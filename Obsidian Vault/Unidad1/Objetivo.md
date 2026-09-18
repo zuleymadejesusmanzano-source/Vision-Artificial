@@ -1,3 +1,17 @@
+Desarrollar y utilizar sistemas de visión embebidos que incluyan aprendizaje de maquina que puedan ser aplicados en diversidad de áreas de aplicación de sistemas de visión artificial.
+
+Competencias:
+
+- Comprender la arquitectura de un sistema de visión artificial y el procesamiento digital de imágenes. 
+- Conocer la arquitectura y estructura de un sistema de visión que se utiliza en la industria
+- Adquirir conocimiento básico de algoritmos de visión artificial para una aplicación especifica. 
+
+Temario:
+SISTEMAS DE VISION Y PROCESAMIENTO DIGITAL DE IMAGENES
+1.1 Introducción a los sistema de visión 
+1.2 Componentes de un sistema de visión
+1.3 Conceptos básicos sobre imágenes
+1.4 Operaciones básicas con imágenes 
 Primera Unidad
 Sistemas de visión y procesamiento digital de imágenes  ----->  Aprendizaje Basado en investigación --------> Proceso --------> Proponer un tema --------> Presentar la  investigación
 
@@ -46,7 +60,7 @@ Herramientas de software
 Herramientas de hardware 
 - 
 -------------------------------------------------
-ACTIVIDAD 1.1 
+### ACTIVIDAD 1.1 
 ### Aplicación: Detección de enfermedades en plantas
 
 **¿En qué consiste?**  
@@ -78,3 +92,18 @@ Imagina una aplicación móvil llamada PlantVision. El agricultor abre la aplica
  **Recomendación:** Revisar la planta y consultar a un especialista.
 
 Así estarías implementando directamente la visión artificial para solucionar un problema real de la agricultura.
+
+### ACTIVIDAD 1.2
+	Mencionar 3 aplicaciones de la vision artificial en la industria 
+
+- **Control de calidad:** permite inspeccionar productos automáticamente para detectar **defectos, grietas, deformaciones o errores de fabricación**.
+- **Robótica industrial:** ayuda a los robots a **identificar, localizar y manipular objetos**, por ejemplo, para seleccionar piezas, ensamblarlas o colocarlas en una línea de producción.
+- **Seguridad industrial:** se utiliza para **detectar situaciones de riesgo**, como trabajadores sin equipo de protección, personas en zonas peligrosas o movimientos inseguros dentro de una fábrica.
+-
+**Fuente:** [Association for Advancing Automation (A3) – Vision Inspection Systems](https://www.automate.org/vision/news/what-are-vision-inspection-systems?utm_source=chatgpt.com)
+**Fuente:** [Association for Advancing Automation – Machine Vision and Robots](https://www.automate.org/vision/industry-insights/machine-vision-and-robots?utm_source=chatgpt.com)
+**Fuente:** [Microsoft – Visión artificial para seguridad industrial](https://www.microsoft.com/en/customers/story/1349423518578860629-dow-chemicals-azure-video-analyzer?utm_source=chatgpt.com)
+
+
+
+
